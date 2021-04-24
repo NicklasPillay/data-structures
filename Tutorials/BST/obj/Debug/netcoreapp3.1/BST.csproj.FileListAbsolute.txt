@@ -1,0 +1,12 @@
+C:\Dev\GitHub\data-structures\Tutorials\BST\bin\Debug\netcoreapp3.1\BST.exe
+C:\Dev\GitHub\data-structures\Tutorials\BST\bin\Debug\netcoreapp3.1\BST.deps.json
+C:\Dev\GitHub\data-structures\Tutorials\BST\bin\Debug\netcoreapp3.1\BST.runtimeconfig.json
+C:\Dev\GitHub\data-structures\Tutorials\BST\bin\Debug\netcoreapp3.1\BST.runtimeconfig.dev.json
+C:\Dev\GitHub\data-structures\Tutorials\BST\bin\Debug\netcoreapp3.1\BST.dll
+C:\Dev\GitHub\data-structures\Tutorials\BST\bin\Debug\netcoreapp3.1\BST.pdb
+C:\Dev\GitHub\data-structures\Tutorials\BST\obj\Debug\netcoreapp3.1\BST.AssemblyInfoInputs.cache
+C:\Dev\GitHub\data-structures\Tutorials\BST\obj\Debug\netcoreapp3.1\BST.AssemblyInfo.cs
+C:\Dev\GitHub\data-structures\Tutorials\BST\obj\Debug\netcoreapp3.1\BST.csproj.CoreCompileInputs.cache
+C:\Dev\GitHub\data-structures\Tutorials\BST\obj\Debug\netcoreapp3.1\BST.dll
+C:\Dev\GitHub\data-structures\Tutorials\BST\obj\Debug\netcoreapp3.1\BST.pdb
+C:\Dev\GitHub\data-structures\Tutorials\BST\obj\Debug\netcoreapp3.1\BST.genruntimeconfig.cache

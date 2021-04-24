@@ -1,0 +1,12 @@
+C:\Dev\GitHub\data-structures\Tutorials\StacksQueues\bin\Debug\netcoreapp3.1\StacksQueues.exe
+C:\Dev\GitHub\data-structures\Tutorials\StacksQueues\bin\Debug\netcoreapp3.1\StacksQueues.deps.json
+C:\Dev\GitHub\data-structures\Tutorials\StacksQueues\bin\Debug\netcoreapp3.1\StacksQueues.runtimeconfig.json
+C:\Dev\GitHub\data-structures\Tutorials\StacksQueues\bin\Debug\netcoreapp3.1\StacksQueues.runtimeconfig.dev.json
+C:\Dev\GitHub\data-structures\Tutorials\StacksQueues\bin\Debug\netcoreapp3.1\StacksQueues.dll
+C:\Dev\GitHub\data-structures\Tutorials\StacksQueues\bin\Debug\netcoreapp3.1\StacksQueues.pdb
+C:\Dev\GitHub\data-structures\Tutorials\StacksQueues\obj\Debug\netcoreapp3.1\StacksQueues.AssemblyInfoInputs.cache
+C:\Dev\GitHub\data-structures\Tutorials\StacksQueues\obj\Debug\netcoreapp3.1\StacksQueues.AssemblyInfo.cs
+C:\Dev\GitHub\data-structures\Tutorials\StacksQueues\obj\Debug\netcoreapp3.1\StacksQueues.csproj.CoreCompileInputs.cache
+C:\Dev\GitHub\data-structures\Tutorials\StacksQueues\obj\Debug\netcoreapp3.1\StacksQueues.dll
+C:\Dev\GitHub\data-structures\Tutorials\StacksQueues\obj\Debug\netcoreapp3.1\StacksQueues.pdb
+C:\Dev\GitHub\data-structures\Tutorials\StacksQueues\obj\Debug\netcoreapp3.1\StacksQueues.genruntimeconfig.cache

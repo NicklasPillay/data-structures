@@ -1,0 +1,12 @@
+C:\Dev\GitHub\data-structures\Tutorials\DLL\bin\Debug\netcoreapp3.1\DLL.exe
+C:\Dev\GitHub\data-structures\Tutorials\DLL\bin\Debug\netcoreapp3.1\DLL.deps.json
+C:\Dev\GitHub\data-structures\Tutorials\DLL\bin\Debug\netcoreapp3.1\DLL.runtimeconfig.json
+C:\Dev\GitHub\data-structures\Tutorials\DLL\bin\Debug\netcoreapp3.1\DLL.runtimeconfig.dev.json
+C:\Dev\GitHub\data-structures\Tutorials\DLL\bin\Debug\netcoreapp3.1\DLL.dll
+C:\Dev\GitHub\data-structures\Tutorials\DLL\bin\Debug\netcoreapp3.1\DLL.pdb
+C:\Dev\GitHub\data-structures\Tutorials\DLL\obj\Debug\netcoreapp3.1\DLL.AssemblyInfoInputs.cache
+C:\Dev\GitHub\data-structures\Tutorials\DLL\obj\Debug\netcoreapp3.1\DLL.AssemblyInfo.cs
+C:\Dev\GitHub\data-structures\Tutorials\DLL\obj\Debug\netcoreapp3.1\DLL.csproj.CoreCompileInputs.cache
+C:\Dev\GitHub\data-structures\Tutorials\DLL\obj\Debug\netcoreapp3.1\DLL.dll
+C:\Dev\GitHub\data-structures\Tutorials\DLL\obj\Debug\netcoreapp3.1\DLL.pdb
+C:\Dev\GitHub\data-structures\Tutorials\DLL\obj\Debug\netcoreapp3.1\DLL.genruntimeconfig.cache
