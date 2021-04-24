@@ -8,17 +8,17 @@ Namely:
 - Some cross references to https://docs.microsoft.com/
 
 Part 1:
-Stacks
-Queues
-Singly Linked Lists
-Doubly Linked Lists
-Binary Search Tree
+- Stacks
+- Queues
+- Singly Linked Lists
+- Doubly Linked Lists
+- Binary Search Tree
 
 Part 2:
-Tree Traversal
-Binary Heap
-Hash Table
-Graphs
-Graphs Traversal
-Dijkstra's Algorithm
-Dynamic Programming
+- Tree Traversal
+- Binary Heap
+- Hash Table
+- Graphs
+- Graphs Traversal
+- Dijkstra's Algorithm
+- Dynamic Programming
